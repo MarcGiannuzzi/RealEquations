@@ -1,7 +1,7 @@
 # RealEquations
 Just think about writing math formulas with your finger !
 
-![alt text](https://github.com/MarcGiannuzzi/RealEquations/blob/main/photo_presentation.png)
+![](presentation_realEquations.gif)
 
 - Used MNIST and CROHME data.
 - Trained a Tensorflow CNN to recognize written digits
